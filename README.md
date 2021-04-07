@@ -1,1 +1,1 @@
-# StudyCase
+Pada Study Case ini, masih jauh dari kata sempurna, ataupun mendekati dengan Study Case yang diharapkan. Saya sendiri masih belajar untuk dapat menggunakan CodeIgneter dengan baik, agar kedepannya bisa menjadi lebih sempurna
